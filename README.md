@@ -1,6 +1,5 @@
 # IF_toolbox
 
-Read me text to use the Integrate-and-fire fitting toolbox.
 The fitting procedure implemented here is described in detail in the following paper:
 
 Extraction and Classification of Three Cortical Neuron Types Reveals Two Distinct Adaptation Mechanisms
